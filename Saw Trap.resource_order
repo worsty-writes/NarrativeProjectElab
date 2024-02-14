@@ -77,6 +77,7 @@
     {"name":"obj_lettersmile","order":48,"path":"objects/obj_lettersmile/obj_lettersmile.yy",},
     {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_Key","order":5,"path":"objects/obj_Key/obj_Key.yy",},
+    {"name":"spr_title","order":41,"path":"sprites/spr_title/spr_title.yy",},
     {"name":"spr_ben_backwardwalking","order":10,"path":"sprites/spr_ben_backwardwalking/spr_ben_backwardwalking.yy",},
     {"name":"obj_blood1","order":14,"path":"objects/obj_blood1/obj_blood1.yy",},
     {"name":"spr_default","order":5,"path":"sprites/spr_default/spr_default.yy",},

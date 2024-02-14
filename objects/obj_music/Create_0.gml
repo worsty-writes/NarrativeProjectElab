@@ -1,0 +1,9 @@
+global._playfan = true
+global._playsilly = false
+global._playliminal = false
+global._playsilly2 = false
+_current_music = snd_fanaudio
+_checkmusic1 = true
+_checkmusic2 = true
+_checkmusic3 = true
+_checkmusic4 = true

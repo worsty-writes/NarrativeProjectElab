@@ -27,6 +27,7 @@
     {"name":"spr_key","order":13,"path":"sprites/spr_key/spr_key.yy",},
     {"name":"obj_letterb","order":44,"path":"objects/obj_letterb/obj_letterb.yy",},
     {"name":"spr_ben_forwardwalk","order":1,"path":"sprites/spr_ben_forwardwalk/spr_ben_forwardwalk.yy",},
+    {"name":"spr_textbox","order":42,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"obj_CattyD2","order":28,"path":"objects/obj_CattyD2/obj_CattyD2.yy",},
     {"name":"Sprite47","order":21,"path":"sprites/Sprite47/Sprite47.yy",},
     {"name":"spr_blood1","order":20,"path":"sprites/spr_blood1/spr_blood1.yy",},

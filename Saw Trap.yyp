@@ -45,6 +45,7 @@
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"obj_letterb","path":"objects/obj_letterb/obj_letterb.yy",},},
     {"id":{"name":"spr_ben_forwardwalk","path":"sprites/spr_ben_forwardwalk/spr_ben_forwardwalk.yy",},},
+    {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"obj_CattyD2","path":"objects/obj_CattyD2/obj_CattyD2.yy",},},
     {"id":{"name":"Sprite47","path":"sprites/Sprite47/Sprite47.yy",},},
     {"id":{"name":"spr_ben_leftstill","path":"sprites/spr_ben_leftstill/spr_ben_leftstill.yy",},},

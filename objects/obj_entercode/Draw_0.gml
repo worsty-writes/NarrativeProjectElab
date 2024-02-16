@@ -5,7 +5,7 @@ draw_set_font(game_font)
 draw_set_color(c_black)
 draw_self();
 draw_set_valign(fa_left);
-draw_text(x,y,_message);
+draw_text(x,y,(_message + _cursor));
 
 
 

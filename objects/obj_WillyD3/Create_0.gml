@@ -6,7 +6,7 @@ event_inherited();
 dialog.add(spr_willytalkingneutral, "Ah. So I see you have found the key, Master Benjamin.");
 dialog.add(spr_bennytalkingneutral, "Yeah, really wasn't much of a problem. I mean, it was right over there.");
 dialog.add(spr_willytalkingneutral, "Indeed. Well, I hope you have a wonderful time at your daughter's dance recital.");
-dialog.add(spr_bennytalkingneutral, "And... thank you. For playing with Lady Catherine.");
+dialog.add(spr_willytalkingneutral, "And... thank you. For playing with Lady Catherine.");
 dialog.add(spr_bennytalkingneutral, "Hmph. Not like I have much of a choice.");
 dialog.add(spr_willytalkingneutral, "True, but still, you indulge her.");
 dialog.add(spr_willytalkingneutral, "I know for a fact she is quite lonely at school. Most of the other girls don't take kindly to her hobbies.");

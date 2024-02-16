@@ -4,7 +4,7 @@
   "name": "spr_cattyfaceshadow",
   "bbox_bottom": 93,
   "bbox_left": 0,
-  "bbox_right": 89,
+  "bbox_right": 91,
   "bbox_top": 4,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -21,6 +21,7 @@
   "height": 94,
   "HTile": false,
   "layers": [
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1c9227f8-dced-4dbc-b0f1-8760a33caa63","blendMode":0,"displayName":"face","isLocked":false,"opacity":100.0,"visible":true,},
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6e2d08c0-aaa1-4fe6-bc51-237f00a2306c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,

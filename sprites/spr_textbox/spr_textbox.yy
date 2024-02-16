@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_textbox",
-  "bbox_bottom": 63,
+  "bbox_bottom": 26,
   "bbox_left": 0,
-  "bbox_right": 299,
+  "bbox_right": 126,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"4c2261aa-41d8-4ef9-8497-e241ae6ddb3e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"592adfe4-1ad6-4172-9cb7-83e53ddddb6c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 27,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8caf47be-34df-471c-83a3-e7f215940109","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"879e907a-b1cb-4201-9b5c-9301e80a543c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"4c2261aa-41d8-4ef9-8497-e241ae6ddb3e","path":"sprites/spr_textbox/spr_textbox.yy",},},},"Disabled":false,"id":"638f656f-f9c7-4d21-8fd7-2c3afe925a3b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"592adfe4-1ad6-4172-9cb7-83e53ddddb6c","path":"sprites/spr_textbox/spr_textbox.yy",},},},"Disabled":false,"id":"99d82783-d683-40b4-a7f3-03331b4256ea","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 300,
+  "width": 127,
 }

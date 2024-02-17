@@ -1,3 +1,7 @@
+if global._haskey = true {
+	instance_destroy()
+}
+
 if place_meeting(x, y, Player_Ben) {
 	if keyboard_check_released(key_next) {
 		if(showing_dialog == false) {

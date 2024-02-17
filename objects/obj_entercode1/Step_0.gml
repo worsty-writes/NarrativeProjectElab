@@ -14,14 +14,17 @@ if global._type = true {
 		keyboard_string = _message;
 		global._canmove = true
 		if _message == "2123" {
+			audio_play_sound(snd_correct, 2, false)
 			global._keycode = true
+			global._codecorrect = true
 			global._canmove = true
 			visible = false
 			global._type = false
 		}
 		else {
-			audio_play_sound(explosion, 2, false)
+			audio_play_sound(snd_wronganswer, 2, false)
 			keyboard_string = ""
+			global._codewrong = true
 			global._canmove = true
 			global._type = false
 			visible = false

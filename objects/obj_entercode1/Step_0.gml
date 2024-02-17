@@ -24,12 +24,11 @@ if global._type = true {
 		else {
 			audio_play_sound(snd_wronganswer, 2, false)
 			keyboard_string = ""
-			global._codewrong = true
+			_message = ""
+			sprite_index = spr_textboxererror
 			global._canmove = true
 			global._type = false
-			visible = false
-			_helpme = false
-			global._type = false
+			alarm[0] = 60
 		}
 	}
 }

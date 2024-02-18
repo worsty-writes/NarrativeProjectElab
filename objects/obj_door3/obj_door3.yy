@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_keydoor3",
+  "name": "obj_door3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
@@ -29,9 +29,12 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_keydoor",
-    "path": "sprites/spr_keydoor/spr_keydoor.yy",
+    "name": "spr_door",
+    "path": "sprites/spr_door/spr_door.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_wall_2",
+    "path": "sprites/spr_wall_2/spr_wall_2.yy",
+  },
   "visible": true,
 }

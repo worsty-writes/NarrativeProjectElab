@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global._dooropen = false
-
-global._haskey = false
+if place_meeting(x,y,Player_BenLayer2) {
+	room_goto(CSawTrapB2)
+}

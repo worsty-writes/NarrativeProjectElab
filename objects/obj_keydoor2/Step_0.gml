@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-global._dooropen = false
-
-global._haskey = false
+if global._talkcatty {
+	instance_destroy()
+}

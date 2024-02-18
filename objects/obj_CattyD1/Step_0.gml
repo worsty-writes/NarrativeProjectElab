@@ -2,6 +2,7 @@ if place_meeting(x, y, Player_Ben) {
 	if keyboard_check_released(key_next) {
 		if(showing_dialog == false) {
 			if(dialog.count() <= 0) {
+				global._talkcatty = true
 				if global._willydia3 && global._checkcat = false {
 					global._bonusdia = true
 					global._checkcat = true

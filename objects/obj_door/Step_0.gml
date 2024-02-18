@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 if global._haskey == true
 {
 	if place_meeting(x,y+4,Player_Ben)
@@ -10,4 +7,3 @@ if global._haskey == true
 		instance_destroy()
 	}
 }
-

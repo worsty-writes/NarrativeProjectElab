@@ -1,9 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-global._haskey = false
-
-
-
-
+visible = false
+sprite_index = spr_textbox
+_helpme = false
+global._type3 = false
 

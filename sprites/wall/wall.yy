@@ -2,11 +2,11 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "wall",
-  "bbox_bottom": 63,
+  "bbox_bottom": 8,
   "bbox_left": 0,
   "bbox_right": 63,
   "bbox_top": 0,
-  "bboxMode": 0,
+  "bboxMode": 2,
   "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
@@ -20,12 +20,12 @@
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6f4ca41d-7605-4c81-80fc-64146e088fbd","blendMode":0,"displayName":"default","isLocked":false,"opacity":50.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6f4ca41d-7605-4c81-80fc-64146e088fbd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
     "resourceVersion": "1.0",
-    "bottom": 0,
+    "bottom": 3,
     "enabled": false,
     "guideColour": [
       4294902015,
@@ -35,8 +35,8 @@
     ],
     "highlightColour": 1728023040,
     "highlightStyle": 0,
-    "left": 0,
-    "right": 0,
+    "left": 3,
+    "right": 3,
     "tileMode": [
       0,
       0,
@@ -44,7 +44,7 @@
       0,
       0,
     ],
-    "top": 0,
+    "top": 3,
   },
   "origin": 0,
   "parent": {

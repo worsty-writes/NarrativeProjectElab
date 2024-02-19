@@ -31,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "wall",
-    "path": "sprites/wall/wall.yy",
+    "name": "spr_nothing",
+    "path": "sprites/spr_nothing/spr_nothing.yy",
   },
   "spriteMaskId": null,
   "visible": true,

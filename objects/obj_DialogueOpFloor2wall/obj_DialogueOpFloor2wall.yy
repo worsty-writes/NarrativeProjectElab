@@ -1,15 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_wallwalkthrough",
-  "eventList": [],
+  "name": "obj_DialogueOpFloor2wall",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_ParentDialogue",
+    "path": "objects/obj_ParentDialogue/obj_ParentDialogue.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -21,22 +27,11 @@
   "physicsRestitution": 0.1,
   "physicsSensor": false,
   "physicsShape": 1,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
+  "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
-  "spriteId": {
-    "name": "spr_nothing",
-    "path": "sprites/spr_nothing/spr_nothing.yy",
-  },
-  "spriteMaskId": {
-    "name": "spr_wall_2",
-    "path": "sprites/spr_wall_2/spr_wall_2.yy",
-  },
+  "solid": false,
+  "spriteId": null,
+  "spriteMaskId": null,
   "visible": true,
 }

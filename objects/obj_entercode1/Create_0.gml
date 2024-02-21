@@ -10,3 +10,5 @@ _delay = 1;
 alarm[0] = _delay;
 
 visible = false;
+global._codefalse = false
+global._codecorrect = false

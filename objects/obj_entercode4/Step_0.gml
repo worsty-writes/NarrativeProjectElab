@@ -25,6 +25,7 @@ if global._type4 = true {
 			audio_play_sound(snd_wronganswer, 2, false)
 			keyboard_string = ""
 			_message2 = ""
+			global._codefalse4 = true
 			sprite_index = spr_textboxererror
 			global._canmove = true
 			global._type4 = false

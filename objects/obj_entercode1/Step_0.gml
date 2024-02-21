@@ -27,6 +27,7 @@ if global._type = true {
 			_message = ""
 			sprite_index = spr_textboxererror
 			global._canmove = true
+			global._codefalse = true
 			global._type = false
 			alarm[0] = 60
 		}

@@ -31,6 +31,7 @@
     {"name":"obj_letterb","order":44,"path":"objects/obj_letterb/obj_letterb.yy",},
     {"name":"obj_DialogueOpFloor3","order":81,"path":"objects/obj_DialogueOpFloor3/obj_DialogueOpFloor3.yy",},
     {"name":"spr_ben_forwardwalk","order":1,"path":"sprites/spr_ben_forwardwalk/spr_ben_forwardwalk.yy",},
+    {"name":"spr_textbox","order":42,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"obj_CattyD2","order":28,"path":"objects/obj_CattyD2/obj_CattyD2.yy",},
     {"name":"spr_blood1","order":20,"path":"sprites/spr_blood1/spr_blood1.yy",},
     {"name":"spr_willytalkingneutral","order":27,"path":"sprites/spr_willytalkingneutral/spr_willytalkingneutral.yy",},

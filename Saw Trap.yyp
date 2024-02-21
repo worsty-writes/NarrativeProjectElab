@@ -50,7 +50,6 @@
     {"id":{"name":"obj_letterb","path":"objects/obj_letterb/obj_letterb.yy",},},
     {"id":{"name":"obj_DialogueOpFloor3","path":"objects/obj_DialogueOpFloor3/obj_DialogueOpFloor3.yy",},},
     {"id":{"name":"spr_ben_forwardwalk","path":"sprites/spr_ben_forwardwalk/spr_ben_forwardwalk.yy",},},
-    {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"obj_CattyD2","path":"objects/obj_CattyD2/obj_CattyD2.yy",},},
     {"id":{"name":"spr_ben_leftstill","path":"sprites/spr_ben_leftstill/spr_ben_leftstill.yy",},},
     {"id":{"name":"spr_blood1","path":"sprites/spr_blood1/spr_blood1.yy",},},

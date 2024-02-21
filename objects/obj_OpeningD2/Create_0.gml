@@ -38,3 +38,4 @@ dialog.add(spr_cattyfaceshadow, "YAYYYY!");
 dialog.add(spr_cattyfaceshadow, "i mean you have no choice because of the bomb i implanted in your brain but YAYYYY");
 dialog.add(spr_bennytalkingneutral, "The what.");
 dialog.add(spr_cattyfaceshadow, "anywayyys talk to willy the wuppet to get your first hint. good luck, benny bestie! baiii!");
+dialog.add(spr_nothing, "Press WASD to move. Press [SPACE] to interact.")

@@ -29,9 +29,12 @@
   "properties": [],
   "solid": true,
   "spriteId": {
+    "name": "wall",
+    "path": "sprites/wall/wall.yy",
+  },
+  "spriteMaskId": {
     "name": "spr_keydoor",
     "path": "sprites/spr_keydoor/spr_keydoor.yy",
   },
-  "spriteMaskId": null,
   "visible": true,
 }

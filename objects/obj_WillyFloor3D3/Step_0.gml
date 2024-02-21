@@ -11,7 +11,7 @@ if global._codecorrect3 {
 					global._willyfloor3dia3 = true;
 					dialog.add(spr_willytalkingneutral, "The game has changed, but the puzzle remains the same.");
 					dialog.add(spr_willytalkingneutral, "Start with me and travel clockwise. Pay attention to the stuffed animal on the ground.");
-					dialog.add(spr_willytalkingneutral, "Beyond that, my nonexistant lips are sealed.");
+					dialog.add(spr_willytalkingneutral, "Beyond that, my nonexistent lips are sealed.");
 					dialog.add(spr_bennytalkingneutral, "Great. Thanks, Willy.");
 					return;
 				}
